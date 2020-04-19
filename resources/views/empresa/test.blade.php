@@ -1,0 +1,1 @@
+{{$proveedores[0]['nombre']}}
